@@ -5,7 +5,7 @@ This repository is code of AI CUP 2022 Fall Crop Image Recognition Competition. 
 ## Getting the code
 You can download all the files in this repository by cloning this repository:  
 ```
-git clone https://github.com/Jia-Wei-Liao/Crop_Classification.git
+git clone https://github.com/YCHung1998/Crop-Recognition.git
 ```
 
 
